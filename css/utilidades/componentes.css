@@ -55,8 +55,8 @@
 
 @media (max-width: 600px) {
   .botao {
-    padding: 8px 10px;
-    font-size: .875rem;
+    padding: .625rem .825rem;
+    font-size: .775rem;
   }
 }
 
